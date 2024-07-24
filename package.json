@@ -23,5 +23,9 @@
     "nock": "^13.3.0",
     "node-fetch": "^2.6.1",
     "sinon": "^7.3.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
